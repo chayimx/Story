@@ -2,6 +2,10 @@ wake up
 eat breakfast
 go to school
 sit through classes
+eat lunch
+sit through more classes
 go home
 play video games
+eat dinner
+play more video games
 go to bed
